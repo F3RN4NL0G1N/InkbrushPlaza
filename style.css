@@ -1,0 +1,26 @@
+#construction {
+background-color: grey;
+color: white;
+margin-top: 200px;
+padding: 30px 100px 50px 100px;
+text-align: center;
+font-size: x-large;
+}
+#header {
+background-color: blue;
+color: white;
+font-family: monospace;
+font-size: 80px;
+padding: 0 0 0 90px;
+border: solid 2px black;
+margin-bottom: -0px;
+margin-top: -0px;
+}
+.announcements {
+background-color: #5b4374;
+color: white;
+border: solid 5px #3e2c50;
+padding: 100px 0 100px 0;
+text-align: center;
+margin-top: 0%;
+}
