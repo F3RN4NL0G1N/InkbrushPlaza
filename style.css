@@ -16,6 +16,17 @@ border: solid 2px black;
 margin-bottom: -0px;
 margin-top: -0px;
 }
+#subHeader {
+padding: 0 90px 0 180px;
+background-color: black;
+border: solid 2px black;
+margin-bottom: -0px;
+margin-top: -0px;
+font-size: 10px;
+}
+p {
+color: white;
+}
 .announcements {
 background-color: #5b4374;
 color: white;
